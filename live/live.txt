@@ -83,8 +83,11 @@ CCTV 兵器科技,http://111.20.40.160/PLTV/88888893/224/3221226975/index.m3u8#h
 CCTV 第一剧场,http://111.20.40.160/PLTV/88888893/224/3221226959/index.m3u8#http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8#http://111.20.40.163/PLTV/88888893/224/3221226959/index.m3u8
 CCTV 电视指南,http://111.20.40.160/PLTV/88888893/224/3221226987/index.m3u8#http://111.20.40.162/PLTV/88888893/224/3221226987/index.m3u8#http://111.20.40.163/PLTV/88888893/224/3221226987/index.m3u8
 CCTV 风云剧场,http://111.20.40.160/PLTV/88888893/224/3221226950/index.m3u8#http://111.20.40.162/PLTV/88888893/224/3221226950/index.m3u8#http://111.20.40.163/PLTV/88888893/224/3221226950/index.m3u8#http://111.20.40.164/PLTV/88888893/224/3221226950/index.m3u8#http://111.20.40.165/PLTV/88888893/224/3221226950/index.m3u8
+CCTV 风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 CCTV 风云音乐,http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8#http://111.20.40.163/PLTV/88888893/224/3221226953/index.m3u8#http://111.20.40.164/PLTV/88888893/224/3221226953/index.m3u8#http://111.20.40.165/PLTV/88888893/224/3221226953/index.m3u8
+CCTV 风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 CCTV 风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
+CCTV 风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
 CCTV 怀旧剧场,http://111.20.40.160/PLTV/88888893/224/3221226972/index.m3u8#http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8#http://111.20.40.163/PLTV/88888893/224/3221226972/index.m3u8
 CCTV 世界地理,http://111.20.40.160/PLTV/88888893/224/3221226947/index.m3u8#http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8#http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 CCTV 央视文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8#http://111.20.40.165/PLTV/88888893/224/3221226981/index.m3u8#http://111.20.40.166/PLTV/88888893/224/3221226981/index.m3u8#http://111.20.40.167/PLTV/88888893/224/3221226981/index.m3u8
@@ -110,6 +113,7 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN英语新闻,http://live.cgtn.com/500/prog_index.m3u8
 
 卫视,#genre#
+湖北卫视,http://59.173.243.210:9901/tsfile/live/1018_1.m3u8
 湖南卫视,http://59.173.243.210:9901/tsfile/live/1022_1.m3u8
 江苏卫视,http://59.173.243.210:9901/tsfile/live/1023_1.m3u8
 浙江卫视,http://59.173.243.210:9901/tsfile/live/1024_1.m3u8
@@ -314,13 +318,13 @@ CCTV央视台球,http://china.733240.com/cqyx.php?id=ystqHD
 健康养生,https://cntv.sbs/tv?auth=231013&id=jkys
 百变课堂,https://cntv.sbs/tv?auth=231013&id=bbkt
 宝宝动画,https://cntv.sbs/tv?auth=231013&id=bbdh
-百视通体育1,https://cntv.sbs/tv?auth=231013&id=sport1
-百视通体育2,https://cntv.sbs/tv?auth=231013&id=sport2
-百视通体育3,https://cntv.sbs/tv?auth=231013&id=sport3
-百视通体育4,https://cntv.sbs/tv?auth=231013&id=sport4
-百视通体育5,https://cntv.sbs/tv?auth=231013&id=sport5
-百视通体育6,https://cntv.sbs/tv?auth=231013&id=sport6
-百视通体育7,https://cntv.sbs/tv?auth=231013&id=sport7
+百视通体育,https://cntv.sbs/tv?auth=231013&id=sport1
+百视通体育,https://cntv.sbs/tv?auth=231013&id=sport2
+百视通体育,https://cntv.sbs/tv?auth=231013&id=sport3
+百视通体育,https://cntv.sbs/tv?auth=231013&id=sport4
+百视通体育,https://cntv.sbs/tv?auth=231013&id=sport5
+百视通体育,https://cntv.sbs/tv?auth=231013&id=sport6
+百视通体育,https://cntv.sbs/tv?auth=231013&id=sport7
 
 影视综合,#genre#
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8#http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -336,9 +340,6 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 茶频道,https://cntv.sbs/tv?auth=231013&id=cpd
 第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
 都市剧场,https://cntv.sbs/tv?auth=231013&id=dsjc
-风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
 高尔夫网球,http://hls.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
 哈哈炫动,https://cntv.sbs/tv?auth=231013&id=hhxd
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
@@ -932,6 +933,7 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 
 港澳台,#genre#
 阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+阿里郎电视,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳视澳门,https://pi.0472.org/tv/asam.php?auth=231013
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -952,15 +954,16 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8#http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 无线新闻台,http://r.jdshipin.com/CkuBd
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港卫视,http://107.151.203.111:2209/135/hk.php?id=hkws#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星河台,http://113.117.74.12:8081/hls/135/index.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
 
 国际,#genre#
-ArirangTV,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Comedy,http://51.210.199.27/hls/stream.m3u8
 Documentary,http://51.210.199.23/hls/stream.m3u8
 Family,http://51.210.199.19/hls/stream.m3u8
@@ -984,8 +987,7 @@ VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 美国·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 美国国·NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+
 
 少儿频道,#genre#
 空中课堂_一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
