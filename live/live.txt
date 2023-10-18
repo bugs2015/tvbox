@@ -1,4 +1,41 @@
+湖北电信,#genre#
+湖北卫视,http://59.173.243.210:9901/tsfile/live/1018_1.m3u8
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
+湖北公共,http://59.173.243.210:9901/tsfile/live/1034_1.m3u8
+湖北综合,http://59.173.243.210:9901/tsfile/live/1020_1.m3u8
+湖北影视,http://59.173.243.210:9901/tsfile/live/1000_1.m3u8
+湖北陇上,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8
+武汉1 新闻综合,http://59.173.243.210:9901/tsfile/live/1003_1.m3u8
+武汉2 电视剧,http://59.173.243.210:9901/tsfile/live/1038_1.m3u8
+武汉3 科技生活,http://59.173.243.210:9901/tsfile/live/1002_1.m3u8
+武汉3 科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉4 经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
+武汉5 文体,http://59.173.243.210:9901/tsfile/live/0119_1.m3u8
+武汉5 文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
+武汉6 外语,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8
+武汉6 外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
+武汉教育,http://59.173.243.210:9901/tsfile/live/1001_1.m3u8
+武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
+
 央视,#genre#
+CCTV1 综合,http://59.173.243.210:9901/tsfile/live/0001_1.m3u8
+CCTV2 财经,http://59.173.243.210:9901/tsfile/live/0002_1.m3u8
+CCTV3 综艺,http://59.173.243.210:9901/tsfile/live/0003_1.m3u8
+CCTV4 国际,http://59.173.243.210:9901/tsfile/live/1004_1.m3u8
+CCTV5 体育,http://59.173.243.210:9901/tsfile/live/1005_1.m3u8
+CCTV6 电影,http://59.173.243.210:9901/tsfile/live/1006_1.m3u8
+CCTV7 国防,http://59.173.243.210:9901/tsfile/live/1007_1.m3u8
+CCTV8 电视剧,http://59.173.243.210:9901/tsfile/live/1008_1.m3u8
+CCTV9 纪录,http://59.173.243.210:9901/tsfile/live/1009_1.m3u8
+CCTV10 科教,http://59.173.243.210:9901/tsfile/live/1010_1.m3u8
+CCTV11 戏曲,http://59.173.243.210:9901/tsfile/live/1011_1.m3u8
+CCTV12 社会,http://59.173.243.210:9901/tsfile/live/0012_1.m3u8
+CCTV13 新闻,http://59.173.243.210:9901/tsfile/live/1013_1.m3u8
+CCTV14 少儿,http://59.173.243.210:9901/tsfile/live/0014_1.m3u8
+CCTV15 音乐,http://59.173.243.210:9901/tsfile/live/1015_1.m3u8
+CCTV16 奥林,http://59.173.243.210:9901/tsfile/live/1036_1.m3u8
+CCTV17 农业,http://59.173.243.210:9901/tsfile/live/1016_1.m3u8
+CCTV5+ 体育赛事,http://59.173.243.210:9901/tsfile/live/1021_1.m3u8
 CCTV1 综合,http://221.2.36.34:8888/newlive/live/hls/2/live.m3u8#http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8#http://60.255.120.30:89/live2/live2.m3u8#http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
 CCTV1 综合,https://cntv.sbs/tv?auth=231013&id=cctv1
 CCTV2 财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8#http://221.2.36.34:8888/newlive/live/hls/3/live.m3u8#http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?#http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed#http://hms144nc1972679571.live.aikan.miguvideo.com/wh7f454c46tw1367597789_986251175/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=124.222.137.170&timestamp=20220829051304&ContentId=265667329&timezone=UTC&mtv_session=3a72ceba3ac665546cb73fabdc40bd8b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d9afe5e7950888c1a04ca5a47e51f660
@@ -52,6 +89,9 @@ CCTV 怀旧剧场,http://111.20.40.160/PLTV/88888893/224/3221226972/index.m3u8#h
 CCTV 世界地理,http://111.20.40.160/PLTV/88888893/224/3221226947/index.m3u8#http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8#http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 CCTV 央视文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8#http://111.20.40.165/PLTV/88888893/224/3221226981/index.m3u8#http://111.20.40.166/PLTV/88888893/224/3221226981/index.m3u8#http://111.20.40.167/PLTV/88888893/224/3221226981/index.m3u8
 CCTV 移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+CETV1,https://cntv.sbs/tv?auth=231013&id=cetv1
+CETV2,https://cntv.sbs/tv?auth=231013&id=cetv2
+CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240365_1/encoder/0/playlist.m3u8?CONTENTID=00000110240365_1#http://106.39.160.148/live.aishang.ctlcdn.com/00000110240365_1/playlist.m3u8?CONTENTID=00000110240365_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
 CGTN,https://cntv.sbs/tv?auth=231013&id=cgtn
@@ -70,9 +110,24 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN英语新闻,http://live.cgtn.com/500/prog_index.m3u8
 
 卫视,#genre#
-CETV1,https://cntv.sbs/tv?auth=231013&id=cetv1
-CETV2,https://cntv.sbs/tv?auth=231013&id=cetv2
-CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
+湖南卫视,http://59.173.243.210:9901/tsfile/live/1022_1.m3u8
+江苏卫视,http://59.173.243.210:9901/tsfile/live/1023_1.m3u8
+浙江卫视,http://59.173.243.210:9901/tsfile/live/1024_1.m3u8
+北京卫视,http://59.173.243.210:9901/tsfile/live/1026_1.m3u8
+东方卫视,http://59.173.243.210:9901/tsfile/live/1039_1.m3u8
+深圳卫视,http://59.173.243.210:9901/tsfile/live/1027_1.m3u8
+天津卫视,http://59.173.243.210:9901/tsfile/live/0135_1.m3u8
+辽宁卫视,http://59.173.243.210:9901/tsfile/live/1029_1.m3u8
+山东卫视,http://59.173.243.210:9901/tsfile/live/1030_1.m3u8
+重庆卫视,http://59.173.243.210:9901/tsfile/live/1032_1.m3u8
+东南卫视,http://59.173.243.210:9901/tsfile/live/1033_1.m3u8
+安徽卫视,http://59.173.243.210:9901/tsfile/live/1025_1.m3u8
+河南卫视,http://59.173.243.210:9901/tsfile/live/1035_1.m3u8
+四川卫视,http://59.173.243.210:9901/tsfile/live/1037_1.m3u8
+海南卫视,http://59.173.243.210:9901/tsfile/live/1040_1.m3u8
+江西卫视,http://59.173.243.210:9901/tsfile/live/0138_1.m3u8
+广东卫视,http://59.173.243.210:9901/tsfile/live/1017_1.m3u8
+吉林卫视,http://59.173.243.210:9901/tsfile/live/0116_1.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安徽卫视,http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
 安徽卫视,https://cntv.sbs/tv?auth=231013&id=ahws
@@ -103,6 +158,10 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 黑龙江卫视,https://cntv.sbs/tv?auth=231013&id=hljws
 湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8#http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8
 湖北卫视,https://cntv.sbs/tv?auth=231013&id=hubws
+湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/98332cffba-0-0-3fe086315a84c8e82709ba3e727156c9/index.m3u8
+湖南卫视,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8?CONTENTID=00000110240130_1
+湖南卫视,http://113.207.84.197/session/78ec0a9a-6de3-11ee-8422-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/hunanHD/__op/default/__f/5/v4M/index.m3u8
+湖南卫视,http://113.207.84.197/session/78ec0a9a-6de3-11ee-8422-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/hunanHD/__op/default/__f/5/v2M/index.m3u8
 湖南卫视,http://221.213.43.82:8888/newlive/live/hls/23/live.m3u8#http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8#http://223.151.51.27:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,https://cntv.sbs/tv?auth=231013&id=hunws
 吉林卫视,http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8
@@ -461,8 +520,6 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 河北｜石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
 河北｜石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
 河北｜石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
-河北｜武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-河北｜武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 河北｜兴隆综合频道,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 河北｜影视,http://zdwjl.eatuo.com:808/tsfile/live/1002_1.m3u8
 河南｜宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
@@ -515,6 +572,7 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 河南｜淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
 河南｜渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
 河南｜潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+湖南｜爱晚,http://223.151.51.27:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北｜当阳,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1704038399-0-0-d94526965480b96a43608d6ddad3c9a8
 湖北｜鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1704038399-0-0-7387d4927e444c08f898365bb0a16e87
 湖北｜鄂州新闻,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1704038399-0-0-f97391c85e7bf53b885ed7d63cf722c0
@@ -524,9 +582,6 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 湖北｜红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec
 湖北｜荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 湖北｜十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-湖北｜武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-湖北｜武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-湖南｜爱晚,http://223.151.51.27:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南｜电影,http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0#http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南｜都市,http://223.151.51.27:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南｜桂东,https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
