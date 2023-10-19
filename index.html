@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>tvbox</title>
+    <script type="text/javascript">
+        function checkUserAgent() {
+            var userAgent = navigator.userAgent;
+            var isOkHttp = /okhttp\/3\.15/i.test(userAgent);
+            if (isOkHttp) {
+                // 返回tvbox.json文件内容
+                window.location.href = "tvbox.json";
+            } else {
+                // 显示文本“请勿非法使用”
+                document.write("请勿非法使用");
+            }
+        }
+    </script>
+</head>
+<body onload="checkUserAgent()">
+</body>
+</html>
